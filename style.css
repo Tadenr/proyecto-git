@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(245, 245, 245);
+    font-family: 'Arial Narrow Bold', sans-serif;
+    text-align: justify;
+    }
+    nav{
+        background-color: bisque;
+        font-style: italic;
+        color: rgb(87, 87, 78);
+    }
+    
+    img{
+        width: 350px;
+        height: 350px;
+        
+    };
